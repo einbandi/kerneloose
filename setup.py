@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kerneloose",
-    version="0.0.1",
+    version="0.0.2",
     author="Andreas Hinterreiter",
     author_email="andreas.hinterreiter@jku.at",
     description="Kernel method for out-of-sample extension",
